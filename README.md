@@ -1,0 +1,2 @@
+# anki_screenshot_daemon
+基于pix2text的一个anki公式刷入工具
